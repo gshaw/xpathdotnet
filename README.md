@@ -2,7 +2,7 @@
 
 A simple tool to help with creating XPath Expressions.
 
-Gerry Shaw (Feburary 11, 2007)
+![XPath Designer Screen Shot](https://raw.github.com/gshaw/xpathdotnet/master/bin/XPathDesigner.png)
 
 ## Instructions
 
@@ -15,3 +15,7 @@ Gerry Shaw (Feburary 11, 2007)
 
 1. Open the Visual Studio 2005 C# Project file
 2. Click Build
+
+## Author
+
+Gerry Shaw (Feburary 11, 2007)
